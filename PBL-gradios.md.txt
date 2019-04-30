@@ -3,4 +3,10 @@ My PBL contribution list
 
 | Issue                    | Link.   | Pull Request |
 |--------------------------|---------|--------------|
-| GitHub¿¡ ÀÌ¸§ Ãß°¡ÇÏ±â     | [#2](https://github.com/hyo-me/hu-oss-sw-2019-spring/issues/2) | https://github.com/inureyes/hu-oss-sw-2019-spring/pull/125|
+| í•™ìƒ ì´ë¦„ ì¶”ê°€    | [#143](https://github.com/inureyes/gradios/issues/143) | https://github.com/inureyes/gradios/pull/227|
+
+Idea for project
+================
+
+ * change text colour
+ * change back ground music
